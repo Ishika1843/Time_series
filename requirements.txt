@@ -1,0 +1,4 @@
+streamlit
+nixtla utilsforecast
+python-dotenv
+google-generativeai
